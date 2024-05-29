@@ -1,3 +1,5 @@
+// Run using: npm run build
+
 // ECMAScript module system (ESM) syntax
 import readline from "node:readline";
 
