@@ -16,25 +16,26 @@ Languages used or expected to be used:
 - Lua
 - Perl
 - Zig
+- Gleam
 
 Other ones to try:
-- Bend
+- Dart
+- Kotlin
+- Swift
+- Objective-C
+- Scala
+- Groovy
+- F#
 - Lisp
 - Haskell
-- Objective-C
 - Erlang
 - Clojure
+- Elixir
 - OCaml
 - Bash
 - Powershell
 - R
-- Groovy
-- Dart
-- Swift
-- Scala
-- Elixir
-- F#
-- Kotlin
+- Bend
 - Fortran
 - Smalltalk
 - Ada
