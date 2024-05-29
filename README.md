@@ -17,8 +17,6 @@ Languages used or expected to be used:
 - Perl
 - Zig
 - Gleam
-
-Other ones to try:
 - Dart
 - Kotlin
 - Swift
@@ -32,13 +30,5 @@ Other ones to try:
 - Clojure
 - Elixir
 - OCaml
-- Bash
-- Powershell
-- R
-- Bend
-- Fortran
-- Smalltalk
-- Ada
-- COBOL
 
 Credits to Brian P. Hogan, author of the book.
