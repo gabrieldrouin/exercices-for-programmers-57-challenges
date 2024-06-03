@@ -2,18 +2,23 @@
 
 This repository contains my solutions to the coding challenges provided in [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://pragprog.com/titles/bhwb/exercises-for-programmers/).
 
-Languages used or expected to be used:
-- C
-- C++
-- C#
-- Java
-- Python
+Languages used:
 - Typescript
-- PHP
+- Python
+- Java
+- C++
+
+Languages I may try:
+- C#
 - Ruby
 - Go
-- Rust
 - Lua
+- Lisp
+
+Languages I could try but probably never will:
+- C
+- PHP
+- Rust
 - Perl
 - Zig
 - Gleam
@@ -24,7 +29,6 @@ Languages used or expected to be used:
 - Scala
 - Groovy
 - F#
-- Lisp
 - Haskell
 - Erlang
 - Clojure
